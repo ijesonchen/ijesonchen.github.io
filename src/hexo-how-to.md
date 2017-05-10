@@ -5,9 +5,11 @@ tags: [hexo, how-to]
 ---
 
 # 参考资料
+所有资料来源于网上
+<!--more-->
+
 [用Hexo创建个人博客](http://www.jianshu.com/p/b06222fbc135)
 [手把手教你使用Hexo + Github Pages搭建个人独立博客](https://segmentfault.com/a/1190000004947261)
-<!--more-->
 
 # 准备
 
@@ -156,7 +158,7 @@ deploy:
 ```
 
 - 安装hexo-deployer-git
-  npm install hexo-deployer-git --save
+  `npm install hexo-deployer-git --save`
 - 修改配置_config.yml
 
 ```language
